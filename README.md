@@ -1,7 +1,7 @@
 # Asim Alqarni
 
 AI student at Umm Al-Qura University, focused on computer vision and deep learning.
-Currently a cooperative trainee at ICAIRE (SDAIA), working on the center's Research Portal.
+Currently a cooperative trainee at ICAIRE (SDAIA).
 
 ## Featured Project
 
@@ -14,7 +14,7 @@ A self-checkout system that detects Saudi retail products from a single image.
 - **Training:** Google Colab Enterprise (RTX PRO 6000)
 - **Deployment:** Hugging Face Spaces with a Gradio interface and automatic receipt generation
 
-[Repository](REPO_LINK_HERE) · [Live Demo](DEMO_LINK_HERE)
+[Repository](https://github.com/AsimQarni/Vision-Checkout) · [Live Demo](https://huggingface.co/spaces/Almo7tarif/vision-checkout)
 
 ## Other Work
 
